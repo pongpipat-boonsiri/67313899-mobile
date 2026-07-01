@@ -29,7 +29,7 @@ void main() {
   print('---');
 
   // For-in loop
-  var fruits = ['Apple', 'Banana', 'Cherry'];
+  var fruits = ['Melon', 'Watermelon', 'Papaya'];
   print('Fruits:');
   for (var fruit in fruits) {
     print('- $fruit');
