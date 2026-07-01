@@ -6,7 +6,7 @@ double calculateArea({required double width, required double height}) {
   return width * height;
 }
 void main() {
-  greet('Somchai');
+  greet('pongpipat');
   int product = multiply(9, 4);
   print('9 * 4 = $product');
   double area = calculateArea(width: 6.7, height: 9.9);
